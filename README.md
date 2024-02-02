@@ -10,7 +10,7 @@ A text editor structured as a progressive web application meaning it can be down
 
 ## Installation
 
-Users can install locally by cloning this repository, running npm i, npm start, go to localhost:3000 in the browser and click the install button 
+Users can install locally by visiting 
 
 ## How to Use
 
